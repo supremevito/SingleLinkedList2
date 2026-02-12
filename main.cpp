@@ -10,5 +10,4 @@ struct ListNode {
 };
 
 class LinkedList {
-private:
 };
